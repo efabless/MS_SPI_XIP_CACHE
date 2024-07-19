@@ -1,4 +1,4 @@
-# MS_SSPI_XIP_CACHE
+# MS_SPI_XIP_CACHE
 SPI Flash memory controller with the following features:
 - AHB lite interface
 - Execute in Place (XiP)
